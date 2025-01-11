@@ -1,137 +1,69 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/bike rental 2.jpg",
+    title: "Bike Rental Analysis",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+      "The project analyzes Capital Bikeshare data (2011-2012) in Washington D.C., focusing on how weather, season, and time of day influence rental patterns.",
+    tech_stack: ["Jupyter Notebook", "Google Collab", "Python"],
+    github_url: "https://github.com/farhanzibran/Bike-Rental-Analysis",
+    demo_url: "https://bike-rental-analysis-ugljjtqkudx7kypznmculp.streamlit.app/",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/fashion.jpg",
+    title: "Fashion Data Analysis",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
+      "Analyzing data to uncover patterns and insights related to fashion data through several stages, including data wrangling, EDA, and Data Visualization with Streamlit.",
     tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+    github_url: "https://github.com/farhanzibran/Analisis_Data_Fashion/",
+    demo_url: "",
+  
   },
-  {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
-    description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
-  },
-  {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
-    description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
-  },
+  
+    
 ];
 
 // --------------------------------------- Skills
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
-    name: "HTML",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/python-original.svg",
+    name: "python",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/css3-original.svg",
     name: "CSS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/javascript-original.svg",
     name: "JavaScript",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "ReactJS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-    name: "NextJs",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/git-original.svg",
     name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "React Native",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/github-original.svg",
+    name: "Github",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
-    name: "NodeJS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-    name: "Firebase",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/mongodb-original.svg",
     name: "MongoDB",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-    name: "Python",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
-    name: "Flask",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    name: "C",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    name: "Java",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/mysql-original.svg",
     name: "MySQL",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
-    name: "Bootstrap",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg",
-    name: "Material UI",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/figma-original.svg",
     name: "Figma",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/jupyter-original.svg",
+    name: "Jupyter",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
-    name: "VS Code",
+    img: "https://raw.githubusercontent.com/farhanzibran/farhanzibran/refs/heads/main/icon/vscode-original.svg",
+    name:"VS Code",
   },
 ];
