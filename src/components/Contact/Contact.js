@@ -76,7 +76,7 @@ function Contact() {
               </div>
               <a
                 className="btn PrimaryBtn btn-shadow"
-                href="https://wa.me/62261844312"
+                href="https://wa.me/6282261844312"
                 target="_blank"
                 rel="noopener noreferrer"
               >
