@@ -14,21 +14,21 @@ export const ProjectList = [
     title: "Fashion Data Analysis",
     description:
       "Analyzing data to uncover patterns and insights related to fashion data through several stages, including data wrangling, EDA, and Data Visualization with Streamlit.",
-    tech_stack: ["React", "Firebase"],
+    tech_stack: ["Jupyter Notebook", "Google Collab", "Python"],
     github_url: "https://github.com/farhanzibran/Analisis_Data_Fashion/",
     demo_url: "",
   
   },
   {
-    img: "/fashion.jpg",
-    title: "Pizzas Sales Analysis",
+    img: "/pizza_analysis.png",
+    title: "Pizza Sales Analysis",
     description:
       "Analyzing pizza sales using SQL and Excel to uncover trends, customer preferences, and improve business performance through data insights.",
-    tech_stack: ["React", "Firebase"],
-    github_url: "https://github.com/farhanzibran/Analisis_Data_Fashion/",
+    tech_stack: ["SQL", "Excel"],
+    github_url: "https://github.com/farhanzibran/Pizza-Sales-Analysis",
     demo_url: "",
-  },
   
+  },
     
 ];
 
