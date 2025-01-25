@@ -19,6 +19,16 @@ export const ProjectList = [
     demo_url: "",
   
   },
+  {
+    img: "/fashion.jpg",
+    title: "Pizzas Sales Analysis",
+    description:
+      "Analyzing data to uncover patterns and insights related to fashion data through several stages, including data wrangling, EDA, and Data Visualization with Streamlit.",
+    tech_stack: ["React", "Firebase"],
+    github_url: "https://github.com/farhanzibran/Analisis_Data_Fashion/",
+    demo_url: "",
+  
+  },
   
     
 ];
