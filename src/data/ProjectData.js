@@ -27,18 +27,8 @@ export const ProjectList = [
     tech_stack: ["React", "Firebase"],
     github_url: "https://github.com/farhanzibran/Analisis_Data_Fashion/",
     demo_url: "",
-  
   },
-  {
-    img: "/fashion.jpg",
-    title: "Pizzas Sales Analysis",
-    description:
-      "Analyzing pizza sales using SQL and Excel to uncover trends, customer preferences, and improve business performance through data insights.",
-    tech_stack: ["React", "Firebase"],
-    github_url: "https://github.com/farhanzibran/Analisis_Data_Fashion/",
-    demo_url: "",
   
-  },
     
 ];
 
